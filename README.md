@@ -18,7 +18,7 @@ in the normlal sequance on events someone would push the call button on the outs
 
 during this to provide feedback the outside of the elevator there is a screen to show what floor it is at and what way it was travaling. on the inside if you press abutton then it lights up and there is normaly a screen that shows what floor is at.
 
-however with the design that is in the elevator as it is it is possable to accedently select the wrong floor it is also possable to not understand what button to press in an emergancy or press one of the emergency buttons insted of selecting at floor. 
+however with the design that is in the elevator as it is it is possable to accedently sealect the wrong floor it is also possable to not understand what button to press in an emergancy or press one of the emergency buttons insted of selecting at floor. 
 
 to fix this I would put all the floor select buttons over each other and on the left side of the control panel. this provides a design that follows the the design of the floors so the user instenctivly knows how to select the floor. then on the right of those buttons i would put the emergency call and stop buttons under a plastic panel to prevent accadentale pushing. 
 
