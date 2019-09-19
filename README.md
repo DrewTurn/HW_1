@@ -1,10 +1,12 @@
 # HW_1
 // Jonathan Turner ID: 42
 
-https://imgur.com/a/x2r3N1C
+ elevator pic https://imgur.com/a/x2r3N1C
 
 
-https://imgur.com/a/cqfn6D1
+elevator gif https://imgur.com/a/cqfn6D1
 
 
-project gif https://imgur.com/a/FqozBBd
+project pic https://imgur.com/a/FqozBBd
+
+project gif https://share.getcloudapp.com/Wnuwj501
